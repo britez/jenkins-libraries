@@ -7,3 +7,7 @@ def info(message) {
 def warning(message) {
     echo "WARN: $message"
 }
+
+def error(message) {
+    echo "ERROR: $message"
+}
