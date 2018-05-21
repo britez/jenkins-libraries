@@ -1,5 +1,5 @@
 package org
-import org.Logger
+import Logger
 
 class GitHelper {
 
