@@ -1,4 +1,6 @@
+package org.jenkins
 
+import org.jenkins.Logger
 
 class GitHelper {
 
